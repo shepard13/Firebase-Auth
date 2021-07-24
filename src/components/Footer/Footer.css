@@ -1,0 +1,15 @@
+.footer {
+  display: flex;
+  min-height: 83vh;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.footer-map {
+  border: solid 5px gray;
+  border-radius: 10px;
+}
+.footer-address {
+  text-align: center;
+}

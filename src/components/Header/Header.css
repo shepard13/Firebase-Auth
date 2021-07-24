@@ -1,0 +1,26 @@
+.flex-container {
+  background-color: gray;
+  border: solid 2px rgb(70, 68, 68);
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+.nav a {
+  color: white;
+  margin-right: 25px;
+  text-decoration: none;
+}
+
+.logo {
+  color: white;
+  display: flex;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+.logo .logo-icon {
+  align-self: center;
+  padding-bottom: 5px;
+}
